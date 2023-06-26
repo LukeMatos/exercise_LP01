@@ -1,0 +1,270 @@
+body {
+    margin:0;
+    padding: 0;
+
+}
+
+
+.container {
+    width: 1200px;
+    height: 100px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+
+header {
+     display: flex;
+     justify-content: center;
+
+}
+
+
+.text a {
+    display: flex;
+    width: 245px;
+    height: 87px;
+    background-color: rgba(0,51,255,1);
+    text-align: center;
+    margin:20px 30px;
+    text-decoration: none;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 20px;  
+}
+
+.text a:hover {
+    background-color: rgb(0, 0, 196);
+    transition: all 0.1s linear;
+
+}
+
+.container a:hover {
+    background-color: rgb(0, 0, 196);
+    transition: all 0.1s linear;
+
+}
+
+header a {
+    display: flex;
+    width: 220px;
+    height: 60px;
+    background-color: rgba(0,51,255,1);
+    text-align: center;
+    margin:20px 30px;
+    text-decoration: none;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+header img {
+    width: 200px;
+    height: 40px;
+    margin:30px 30px;
+}
+
+
+.section_1 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height:700px;
+    /* background-color: brown; */
+}
+
+.logos {
+width: 100%;
+height: 90px;
+display: flex;
+justify-content: center;  
+margin-bottom: 30px;
+}
+
+.container_logos {
+    width: 1200px;
+    height: 90px;
+    /* background-color: red; */
+    display:flex;
+    justify-content: space-around;
+ 
+
+}
+
+.logos img {
+object-fit: contain;
+max-height: 100px;
+max-width: 100px;
+} 
+
+.container_s1 {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    height: 700px;
+}
+
+
+.text {
+
+    width: 500px;
+    height: 700x;
+    /* background-color: blanchedalmond; */
+}
+
+.s1_img {
+
+    width: 700px;
+    height: 700px;
+    /* background-color: rgb(136, 124, 106); */
+}
+
+#s1header {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 74px;
+    text-align: left;
+    margin:30px 30px 0px 30px;
+    font-weight: normal;
+    line-height: 81px;
+
+}
+
+#s1txt {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    margin:5px 5px 0px 30px;
+    line-height: 2;
+}
+
+.section_2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+/* .section_2 p {
+
+    font-size: 36px;
+    line-height: 54px;
+    font-family: "Barlow Semi Condensed";
+    color: rgb(48, 48, 48);
+    font-style: normal;
+} */
+
+#s2p {
+    width: 830px;
+    font-size: 36px;
+    line-height: 54px;
+    font-family: "Barlow Semi Condensed";
+    color: rgb(48, 48, 48);
+    font-style: normal;
+
+}
+
+#s2p p {
+    margin:0;
+    padding: 0;
+}
+
+#quote{
+  font-size: 22px;  
+  font-weight: normal;
+  margin:0;
+  padding: 0;
+
+}
+
+
+#portrait {
+    padding: 40px;
+
+}
+
+#i1 {
+    font-size: 64px;
+    line-height: 84px;
+    font-family: "Barlow Semi Condensed";
+    color: rgb(48, 48, 48);
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    margin: 100px 320px;
+}
+
+
+.container_3 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1200px;
+    height: 600px;
+    margin:auto;
+}
+
+/* .c1, .c2, .c3 {
+    flex:1;
+    font-size: 30px;
+    line-height: 1em;
+    font-family: "Barlow Semi Condensed";
+    color: rgb(48, 48, 48);
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.c1, .c2, .c3 p {
+    font-size: 18px;
+    line-height: 28px;
+    font-family: Source Sans Pro;
+    color: rgb(48,48,48);
+    font-style: normal;
+    text-align: left;
+ margin: 0px 50px;
+} */
+
+.container_3 img {
+width: 260px;
+height: 300px;
+margin:0 auto;
+}
+
+
+.conversion_item {
+    width: 33.33%;
+}
+
+.conversion_item h2 {
+    font-size: 30px;
+    line-height: 1em;
+    font-family: "Barlow Semi Condensed";
+    color: rgb(48, 48, 48);
+    font-style: normal;
+    font-weight: 400;
+}
+
+.conversion_item p {
+    font-size: 18px;
+    line-height: 28px;
+    font-family: Source Sans Pro;
+    color: rgb(48,48,48);
+    font-style: normal;
+    text-align: left;
+}
+
+.conversion_item .img {
+    width: 100%;
+    text-align: center;
+}
+
+.conversion_item .content {
+    width: 80%;
+    padding: 0px 50px;
+}

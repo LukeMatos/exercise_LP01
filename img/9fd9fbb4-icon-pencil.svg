@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72px" height="90px" viewBox="0 0 72 90" version="1.1">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Finale_LandingPage-Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Features-page_v1" transform="translate(-236.000000, -2659.000000)">
+            <g id="Group-18" transform="translate(238.000000, 2659.000000)">
+                <polygon id="Fill-1" points="0.43108072 15.6438224 22.0560807 2.43382238 44.5250807 39.2588224 51.1000807 74.3358224 22.9000807 52.4698224"/>
+                <polygon id="Stroke-2" stroke="#0033FF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" points="0.43108072 15.6438224 22.0560807 2.43382238 44.5250807 39.2588224 51.1000807 74.3358224 22.9000807 52.4698224"/>
+                <g id="Group-16" transform="translate(0.329981, 0.824856)" stroke="#0033FF" stroke-width="3.2">
+                    <path d="M22.6366318,51.4962409 C25.1406318,42.4472409 32.2876318,43.8052409 32.2876318,43.8052409 C34.1886318,37.2902409 43.9606318,37.7722409 43.9606318,37.7722409 L21.7626318,1.58024089 L0.137631771,14.7912409 L22.6366318,51.4962409 Z" id="Stroke-8" stroke-linecap="round" stroke-linejoin="round"/>
+                    <polyline id="Stroke-10" stroke-linecap="square" points="58.3473318 86.4569975 56.996995 83.8170852 54.9693318 79.8529975"/>
+                    <path d="M47.4596318,79.3387975 L43.9606318,86.8497975" id="Stroke-12" stroke-linecap="square"/>
+                    <path d="M67.4254318,72.5535975 L59.1314318,72.2215975" id="Stroke-14" stroke-linecap="square"/>
+                </g>
+                <path d="M35.5122589,61.5155364 L45.9014973,55.9698393" id="Line-8" stroke="#0033FF" stroke-width="3.2" stroke-linecap="square"/>
+            </g>
+        </g>
+    </g>
+</svg>
